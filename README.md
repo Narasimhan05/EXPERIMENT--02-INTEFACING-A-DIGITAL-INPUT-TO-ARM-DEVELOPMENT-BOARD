@@ -166,7 +166,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![image](https://github.com/user-attachments/assets/cd4b626d-049d-459b-bde9-2aa9cb368eee)
 
 ### LED OFF
-![image](https://github.com/user-attachments/assets/091f2166-aa4d-4dac-ade5-bcb905cc1917)
+![image](https://github.com/user-attachments/assets/17fb3ab8-885a-40fa-a3d8-1fe110294bb6)
 
 
  
